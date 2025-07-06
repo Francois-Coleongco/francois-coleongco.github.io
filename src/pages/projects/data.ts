@@ -5,10 +5,10 @@ export const projectData: ProjectData = [
     title: 'Work In Progress',
     projects: [
       {
-        text: 'Multithreaded Encrypted File Server and Client (C++)',
-        description: 'with the ability to concurrently handle encrypted client connections',
+        text: 'IOT Security Server (with client modules)',
+        description: 'work in progress (java, C, esp-32 microcontroller)',
         icon: 'i-carbon-campsite',
-        href: 'https://github.com/francois-coleongco/MEFSC',
+        href: 'https://github.com/francois-coleongco/IOT-security-server',
       },
     ],
   },
@@ -17,19 +17,19 @@ export const projectData: ProjectData = [
     projects: [
       {
         text: 'Multithreaded Encrypted File Server and Client (C++)',
-        description: 'with the ability to concurrently handle encrypted client connections',
+        description: 'multithreaded server capable of handling multiple encrypted client connections simultaneously',
         icon: 'i-carbon-campsite',
         href: 'https://github.com/francois-coleongco/MEFSC',
       },
       {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
+        text: 'Encrypted Steganography Suite',
+        description: 'A GUI/CLI for embedding encrypted messages into images using LSB alpha channel encoding written in Rust',
         icon: 'i-carbon-campsite',
-        href: '/',
+        href: 'https://github.com/Francois-Coleongco/Steganography_Suite',
       },
       {
-        text: 'Project Name',
-        description: 'Your project description information is a long piece of text.',
+        text: 'Secure TCP Network Communications Interface in C++',
+        description: 'An easy to compile interface for securing network facing C++ projects built on top of the libsodium library',
         icon: 'i-carbon-campsite',
         href: '/',
       },
