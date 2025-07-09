@@ -23,17 +23,17 @@ export const siteConfig = {
     },
     {
       text: 'Linkedin',
-      href: '',
+      href: 'https://www.linkedin.com/in/francois-coleongco/',
       icon: 'i-simple-icons-linkedin',
     },
-    {
-      text: 'Instagram',
-      href: '',
-      icon: 'i-simple-icons-instagram',
-    },
+    // {
+    //   text: 'Instagram',
+    //   href: '',
+    //   icon: 'i-simple-icons-instagram',
+    // },
     {
       text: 'Youtube',
-      href: '',
+      href: 'https://www.youtube.com/channel/UCXsydrfLILn3pguhmF2Uygw',
       icon: 'i-simple-icons-youtube',
     },
   ],
