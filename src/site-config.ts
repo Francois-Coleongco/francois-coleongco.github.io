@@ -17,7 +17,7 @@ export const siteConfig = {
     },
     {
       text: 'Twitter',
-      href: '',
+      href: 'https://x.com/fran_coleongco',
       icon: 'i-simple-icons-x',
       header: 'i-ri-twitter-x-line',
     },
