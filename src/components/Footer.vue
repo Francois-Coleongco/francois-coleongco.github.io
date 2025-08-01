@@ -19,7 +19,7 @@ import { getLinkTarget } from '@/utils/link'
     <div flex>
       <span op-70>All Rights Reserved</span>
       <span op-70>&nbsp;&nbsp;&copy;&nbsp;&nbsp;{{ new Date().getFullYear() }}&nbsp;&nbsp;{{ siteConfig.author
-      }}.</span>
+      }}</span>
     </div>
   </footer>
 </template>
