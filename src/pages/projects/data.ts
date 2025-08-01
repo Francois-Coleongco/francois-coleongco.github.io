@@ -32,7 +32,7 @@ export const projectData: ProjectData = [
 				text: 'Secure TCP Network Communications Interface for C++ (COMPLETE)',
 				description: 'An easy to integrate interface for securing network facing C++ projects built on top of the libsodium library',
 				icon: 'i-carbon-campsite',
-				href: '/',
+				href: 'https://github.com/Francois-Coleongco/Network-Encryption-Interface',
 			},
 		],
 	},
