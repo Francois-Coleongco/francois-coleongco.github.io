@@ -24,7 +24,7 @@ export const projectData: ProjectData = [
 			},
 			{
 				text: 'Multithreaded Encrypted File Server and Client',
-				description: 'multithreaded server capable of handling multiple encrypted client connections simultaneously',
+				description: 'A multithreaded server capable of handling multiple encrypted client connections simultaneously',
 				icon: 'i-carbon-campsite',
 				href: 'https://github.com/francois-coleongco/MEFSC',
 			},
